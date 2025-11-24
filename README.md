@@ -30,7 +30,7 @@
       pip install vgamepad
       ```
 3.  **ADB 工具**：
-    * 下载 `platform-tools` 包 (包含 `adb.exe`)。（https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn）
+    * 下载 `platform-tools` 包 (包含 `adb.exe`)。
     * 建议将 `adb.exe` 放在本脚本的同一目录下。
 4.  **DJI Assistant 2 (可选)**：
     * 如果电脑完全不识别 USB 设备，请安装 [DJI Assistant 2 (行业版)](https://www.dji.com/cn/downloads/softwares/dji-assistant-2-enterprise) 以获取底层 USB 驱动。
